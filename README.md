@@ -1,4 +1,4 @@
-## 📲 Megaline Plan Recommendation: Predicting the Most Suitable Plan for Subscribers
+## 📲 Predicting the Most Suitable Plan for Subscribers
 
 ### Project Overview
 
